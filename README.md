@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Piero Lenzo</h1>
-<h3 align="center">Frontend Developer - SysAdmin from Sicily</h3>
+<h3 align="center">Developer - SysAdmin from Sicily</h3>
 
 - 🌱 I’m currently learning **Flutter, React, Rust, Kubernetes**
 
-- 💬 Ask me about **Angular, TypeScript, Linux, DevOps**
+- 💬 Ask me about **Linux, DevOps, Angular, TypeScript**
 
 - 📄 Know about my experiences [https://standardresume.co/r/pierolenzo](https://standardresume.co/r/pierolenzo)
 

@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Terraform, Kubernetes, AWS Services**
 
-- 💬 Ask me about **Linux, DevOps, Angular, TypeScript**
+- 💬 Ask me about **Linux, DevOps, CLoud-Native Development, Python, Angular, TypeScript**
 
 - 📄 Know about my experiences [https://standardresume.co/r/pierolenzo](https://standardresume.co/r/pierolenzo)
 

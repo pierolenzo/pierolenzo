@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piero Lenzo</h1>
-<h3 align="center">Developer - SysAdmin from Sicily</h3>
+<h3 align="center">Cloud Engineer from Sicily</h3>
 
 - 🌱 I’m currently learning **Terraform, Kubernetes, AWS Services**
 

@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Piero Lenzo</h1>
-<h3 align="center">Cloud Engineer from Sicily</h3>
+<h3 align="center">DevOps and Cloud Engineer from Sicily</h3>
 
-- 🌱 I’m currently learning **Kubernetes and GO language**
+- 🌱 I’m currently researching the synergy between AI and DevOps to streamline the SDLC and Infrastructure as Code.
 
-- 💬 Ask me about **Linux, Terraform, DevOps, Cloud-Native Development, AWS Services, Python, TypeScript**
-
-- 📄 Know about my experiences [https://standardresume.co/r/pierolenzo](https://standardresume.co/r/pierolenzo)
+- 💬 Ask me about **Linux, Advanced Networking, Terraform, DevOps, Kubernetes, Cloud-Native Development, AWS Services, Python, TypeScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
